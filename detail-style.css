@@ -1,0 +1,29 @@
+.main {
+  background: #706968;
+  color:#191818;
+}
+.menu {
+  background: #E8850C;
+}
+a {
+  color:#FFF;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 400;
+}
+img {
+  height: 265px;
+  width: 265px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 30px;
+  background-size: 100% auto;
+  box-shadow: 5px 5px 5px black;
+  margin: 15px   15px   15px;
+}
+h3 {
+  border-radius: 10px;
+  background-color:darkgray;
+  opacity: 0.5;
+  text-shadow: 2px 2px 0 darkgrey;
+}

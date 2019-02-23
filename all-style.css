@@ -1,0 +1,23 @@
+.main {
+  background: #706968;
+  color:#191818;
+}
+.menu {
+  background: #E8850C;
+}
+a {
+  color:#FFF;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 400;
+}
+img {
+  height: 220px;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 30px;
+  background-size: 100% auto;
+  box-shadow: 5px 5px 5px black;
+  margin: 15px   15px   15px;
+}
