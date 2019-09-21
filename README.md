@@ -1,5 +1,5 @@
 # rick_and_morty_page
-Aplicación web responsiva que se conecta a la API de Rick &amp; Morty
+Responsive web application example that uses Rick &amp; Morty's API.
 
 
 https://rickandmortypage.allsolutionstic.com.co/
